@@ -4,7 +4,7 @@ This web application was built by using HTML, CSS and JavaScript (as also utiliz
 
 The Classic Arcade Game Clone is a simple browser-based game for casual players.
 The game was developed according to this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) and meets all the requirements.
-For running the game, visit the following link: ... .
+For running the game, visit the following [link](https://frogger-fend.herokuapp.com/) .
 
 ## Table of Contents
 
