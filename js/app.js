@@ -1,3 +1,7 @@
+/*
+SPECIAL CREDIT goes to user MatthewCranford who helped me a lot with understanding the code! Thank you!
+*/
+
 // Enemies our player must avoid
 var Enemy = function(x, y, speed) {
   // Variables applied to each of our instances go here,
