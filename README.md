@@ -8,8 +8,17 @@ For running the game, visit the following [link](https://frogger-fend.herokuapp.
 
 ## Table of Contents
 
+- [How To Run](#how_to_run)
 - [How To Play](#how_to_play)
 - [Contributing](#contributing)
+
+## How to Run
+
+To play the game locally, it is necessary to download/clone this repository.
+
+When downloaded/cloned, open the "game.html" file in your favorite browser (Chrome, Firefox etc.).
+
+No additional steps are required, the game starts automatically.
 
 ## How To Play
 

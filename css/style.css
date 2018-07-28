@@ -17,7 +17,7 @@ body {
   top: 200px;
   color: rgb(4, 28, 94);
   font-size: 1.7em;
-  text-shadow: 3px 3px 4px #ffffff;
+  text-shadow: 3px 3px 4px rgb(255, 255, 255);
 }
 .modal-btn {
   position: relative;
@@ -28,7 +28,7 @@ body {
   padding: 30px;
   border-radius: 8px;
   border: solid 2px white;
-  box-shadow: 3px 3px 4px #00000060;
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.4);
 }
 
 .hidden {
